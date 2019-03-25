@@ -1,0 +1,2 @@
+# biar
+script untuk semua
